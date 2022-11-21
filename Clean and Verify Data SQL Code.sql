@@ -27,7 +27,7 @@ clean_ride_id_data AS
 (
 	SELECT *
 	FROM null_cleaned_data
-	WHERE LENGTH(ride_id) = 16 AND total_minutes >= 1
+	WHERE LENGTH(ride_id) = 16 AND total_minutes BETWEEN 1 AND 1440
 ),
 
 clean_startend_station_name AS (
