@@ -10,7 +10,7 @@ To answer the key business questions, I broke down the data analysis process int
 
 ### Tools used ###
 - **Excel** and **BigQuery** for cleaning and validating data formats
-- **BigQuery** for data anlysis
+- **BigQuery** for data analysis
 - **Tableau** for data visualization
 
 More details on my case study can be found at:
