@@ -1,4 +1,4 @@
-WITH H
+WITH
 combined_year_data AS (
 
 SELECT *  
